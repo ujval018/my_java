@@ -1,0 +1,18 @@
+return type --- method call name
+int - length() // this returns the length of the string
+String - String str=str1.toLowerCase() //
+String - String str=str1.toUpperCase()
+String - String str=str1.trim()
+String - String str=str1.substring(n)
+String -String str=str1.substring(s,e)
+String - String str=str1.replace(from,to)
+str.replaceAll("  ","")
+boolean- str.startsWith("")
+boolean- str.endsWith("")
+char- str.charAt(n)
+int - str.indexOf("")
+int - str.lastIndexOf("")
+boolean - str.equals(str1)
+boolean - str.equalsIgnoreCase(str1)
+int - str.compareTo(str1)
+string valueOf(int i)
